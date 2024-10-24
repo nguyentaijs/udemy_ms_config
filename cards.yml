@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Test /busRefresh newnew"
+  message: "Test /busRefresh new"
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
